@@ -1,0 +1,12 @@
+{
+  "name": "@azure/sample-sdk",
+  "version": "1.0.0",
+  "description": "sample azure SDK project",
+  "main": "index.js",
+  "author": "Jaycol Kim",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@azure/ai-text-analytics": "5.0.0"
+  }
+}
