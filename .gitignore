@@ -1,13 +1,16 @@
 node_modules/
+srcs/typescript/node_modules
 
 .DS_Store
 
 **/dist
 
 **/*.log
+**/.env
 
 __pycache__
-.venv
+srcs/python/.venv
 .env
 
 notes/
+application-key.json
